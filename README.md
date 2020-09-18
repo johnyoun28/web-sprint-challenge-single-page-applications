@@ -10,7 +10,7 @@ You are not allowed to collaborate during the sprint challenge. However, you are
 
 _You have **three hours** to complete this challenge. Plan your time accordingly._
 
-## Introduction
+## Introduction.
 
 In this challenge you will be working from the `Lambda Eats` homepage to create a functional `Pizza?` button that leads to a build your own pizza custom form.
 
